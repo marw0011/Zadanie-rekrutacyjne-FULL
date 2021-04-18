@@ -5,6 +5,7 @@ Zadanie rekrutacyjne:
 - dodawanie wniosku urlopowego z walidacją danych
 
 Instalacja:
+
 1/ import bazy danych. Struktura bazy danych dostępna w pliku DATABASE-schema.sql
 
 2/ Upload kodu źródłowego w głownym katalogu na serwerze
